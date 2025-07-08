@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "pocketlogistics:block/uploader"
+    },
+    "facing=south": {
+      "model": "pocketlogistics:block/uploader",
+      "y": 180
+    },
+    "facing=east": {
+      "model": "pocketlogistics:block/uploader",
+      "y": 90
+    },
+    "facing=west": {
+      "model": "pocketlogistics:block/uploader",
+      "y": 270
+    }
+  }
+}
